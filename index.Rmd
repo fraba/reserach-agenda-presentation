@@ -365,10 +365,64 @@ Bailo, F. (2020). *Online communities and crowds in the rise of the Five Star Mo
 * *Breaking out of legacy mobilisation networks: How Italy's Five Star Movement activated passive political discontent* (under review)
 
 .center[
-<img src = "m5s-internet-capital.png" width = "550"/>
+<img src = "m5s-internet-capital.png" width = "750"/>
 ]
 
 
+---
+
+#### Breaking out of legacy mobilisation networks: How Italy's Five Star Movement activated passive political discontent (under review) 
+
+The Five Star Movement’s (M5S) success in 2013 is attributed to its capacity to represent and electorally mobilise political distrust, but whether and how the Internet helped mobilise participation and votes across demographics and geographies is still unclear. 
+
+I propose a *model* for activating **political discontent** in interaction with **internal and collective efficacy** and test it through spatial analysis using event data from Meetup.com. 
+
+.center[
+<img src = "diagram_participation_voting.svg" width = "800"/>
+]
+
+---
+
+#### Breaking out of legacy mobilisation networks: How Italy's Five Star Movement activated passive political discontent (under review) 
+
+##### Variables
+
+.center[
+<img src = "hex-key-variables.jpg" width = "750"/>
+]
+
+
+---
+
+#### Breaking out of legacy mobilisation networks: How Italy's Five Star Movement activated passive political discontent (under review) 
+
+Results identify *two mobilisation waves*, with the second reaching beyond legacy mobilisation networks. 
+
+* The *first wave* is positively spatially associated with **social capital**.
+
+* The *second wave* is spatially associated with **M5S votes** in 2013 but not anymore with social capital. 
+
+* The model explains with the diffusion of political expertise and the mobilisation of discontent into voting in low-social capital geographies. 
+
+.center[
+<img src = "timeseries-plots.jpg" width = "650"/>
+]
+
+
+
+---
+
+#### Breaking out of legacy mobilisation networks: How Italy's Five Star Movement activated passive political discontent (under review) 
+
+Based on the empirical analysis, I argue that 
+
+* the Internet afforded political mobilisation by creating meetups outside of high-social capital legacy mobilisation networks, but 
+
+* only after the *mainstream media* started validating the M5S and its leadership.
+
+.center[
+<img src = "diagram_itanes_edited_inkscape.svg" width = "600"/>
+]
 
 ---
 class: inverse, center, middle
